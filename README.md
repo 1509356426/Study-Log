@@ -12,3 +12,10 @@ Record of Large Model Learning
 总结：效率有点低，还是有点点不坚定，学的比较虚
 
 明天任务：基础看完+部署第一个大模型项目
+
+3.6
+大模型基础知识学完
+
+开启项目学习：GraphRAG基础概念+成功本地部署微软开源框架MicroSoft GraphRAG
+
+明日任务：开始背八股+刷Hot100+看GraphRAG源码  理解Workflow工作流
