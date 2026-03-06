@@ -14,6 +14,7 @@ Record of Large Model Learning
 明天任务：基础看完+部署第一个大模型项目
 
 3.6
+
 大模型基础知识学完
 
 开启项目学习：GraphRAG基础概念+成功本地部署微软开源框架MicroSoft GraphRAG
